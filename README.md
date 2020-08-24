@@ -1,14 +1,13 @@
 # The-Next-Train-Indicator-NTI-Problem
 
 ## Installation
-    + Install and configure the dependencies;
-        * Open the Command Prompt and run: ```npm install```;
+    + npm install
 
 ## Run Solution
-    + Run the solution using following command: ```npm start```;
+    + npm start
 
 ## Run Test Cases
-    + Run the test cases using following command: ```npm run test```;
+    + npm run test
     
     
 ## Description 
