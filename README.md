@@ -1,4 +1,4 @@
-# The-Next-Train-Indicator-NTI-Problem
+# Next Train Indicator Problem 
 
 ## Installation
     + npm install
